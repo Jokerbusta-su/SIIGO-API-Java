@@ -140,7 +140,7 @@ Se encuentran las siguientes carpetas y archivos
   
 #### src
 ```
-Se encuentran los archivos fuentes que contienen los modelos, el controlador de la aplicación.
+Se encuentran los archivos fuentes que contienen los modelos, el controlador y archivos de configuración de la aplicación.
 ```
     
 #### src/main/webapp
